@@ -11,7 +11,7 @@ function Footer() {
         <img src={HeartIcon} alt="love icon" />
         &nbsp; by &nbsp;
         <a
-          href="https://https://github.com/deepblue633/"
+          href="https://github.com/deepblue633/"
           target="_blank"
           rel="noreferrer"
         >
